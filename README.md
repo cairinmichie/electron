@@ -1,3 +1,6 @@
+# DEPRECATED
+Please use the Vuetify [CLI 3.x plugin](https://github.com/vuetifyjs/vue-cli-plugin-vuetify).
+
 <div align="center">
 <br>
 <img width="500" src="/docs/images/logo.png" alt="electron-vue">
@@ -20,10 +23,6 @@ The boilerplate for making electron applications built with vue and vuetify (pre
 
 [![Build Status](https://semaphoreci.com/api/v1/simulatedgreg/electron-vue/branches/master/badge.svg)](https://semaphoreci.com/simulatedgreg/electron-vue)
 </div>
-
-## Vue-cli 3 plugin enabled!
-
-Try out the new setup using vue cli 3 https://github.com/vuetifyjs/vue-cli-plugin-vuetify
 
 ## Overview
 
